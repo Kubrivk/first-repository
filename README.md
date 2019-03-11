@@ -1,1 +1,1 @@
-# first-repository
+# baza danych
